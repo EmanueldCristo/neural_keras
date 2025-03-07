@@ -1,5 +1,7 @@
 # 🎉 Red Neuronal con MNIST - Un Viaje al Futuro de la Inteligencia Artificial 🌟
 
+Emanuel Castillo Ibarra 
+
 ¡Bienvenido al mundo fascinante del aprendizaje profundo!
 Este proyecto implementa una red neuronal en Keras para clasificar dígitos escritos a mano usando el famoso conjunto de datos MNIST. Si alguna vez has querido ver la magia de las redes neuronales en acción, ¡este es tu momento! 🎉
 
