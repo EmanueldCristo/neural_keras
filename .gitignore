@@ -1,0 +1,16 @@
+# Ignorar la carpeta __pycache__ en cualquier nivel del proyecto
+/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar la carpeta venv (entorno virtual)
+venv/
+.vscode/
+
+# No ignorar estos archivos y carpetas
+!/src/
+!/README.md
+!/main.py
+!/.gitignore
+!/Requirements.txt
